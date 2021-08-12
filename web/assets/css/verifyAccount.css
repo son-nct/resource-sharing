@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 15, 2021, 9:43:33 AM
+    Author     : WIN 10
+*/
+
+.btn-confirm {
+    background-color: #fab005;
+   font-size: 20px; 
+   font-family: Helvetica, Arial, sans-serif; 
+   color: #ffffff; 
+   color: #ffffff; 
+   text-decoration: none; 
+   padding: 15px 25px; 
+   border-radius: 2px;
+   border: 1px solid #FFA73B; 
+   display: inline-block;
+   transition: .2s;
+   margin-top: -40px;
+}
+
+.btn-confirm:hover {
+    cursor: pointer;
+    background-color: #f59f00;
+}

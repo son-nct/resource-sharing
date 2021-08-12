@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 11, 2021, 11:10:59 AM
+    Author     : WIN 10
+*/
+body {
+}
+
+.list-card {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin-bottom: 15px;
+}
+
+.page-item {
+    margin-right: 10px;
+}
+
+.form-position {
+    position: relative;
+}
+
+.header-pagination {
+    position: relative;
+    left: 40%;
+}

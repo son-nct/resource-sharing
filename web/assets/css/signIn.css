@@ -1,0 +1,23 @@
+.text-muted {
+    text-align: center;
+}
+
+.eror_message {
+    margin-top: 10px;
+    display: inline-block;
+    color: red;
+    font-size: 14px;
+}
+
+.eye-icon1
+{
+    position: absolute;
+    top: 22px;
+    right: 20px;
+    cursor: pointer;
+}
+
+
+.hidden {
+    display: none;
+}
